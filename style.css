@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+    width:100vw;
+    height:10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font:800 48pt Arial;
+    color:white;
+    background-color: red;
+    margin-bottom: 10vh;
+}
+.content{
+        display:flex;
+        justify-content: center;
+        flex-direction: row;
+        margin-right: 40px;
+        width:90vw;
+
+}
+.menu{
+
+}
+section{
+    width:75vw;
+
+}
+
+.container{
+    width:90vw;
+
+}
